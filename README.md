@@ -21,7 +21,7 @@
 
 ### Links
 
-- Site ao vivo: [https://desafio01-front-end-mentor.com]
+- Site ao vivo: [https://desafio01-front-end-mentor.netlify.app/]
 ### Feito com
 
 - HTML5
