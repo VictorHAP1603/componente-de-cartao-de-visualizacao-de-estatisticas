@@ -1,21 +1,19 @@
 # Frontend Mentor - Stats preview card component solution
 
-## Table of contents
+## Conteudos Aprendidos
 
 
 - [My process](#my-process)
   - [Built with](#built-with)
       -HTML/CSS
   - [What I learned](#what-i-learned)
-      -responsiveness
+      - Responsividade
 
-## Overview
+## Overviewk
 
-### The challenge
+### O Desafio
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
+- Ver o layout na maneira certa independente do dispositivo
 
 ### Screenshot
 
@@ -23,13 +21,13 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://desafio01-front-end-mentor.com]
-### Built with
+- Site ao vivo: [https://desafio01-front-end-mentor.com]
+### Feito com
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS
 
-## Author
+## Autor
 
 - Website - [Victor Hugo](https://victorhugoportifolio.netlify.app/)
 - Frontend Mentor - [@VictorHAP1603](https://www.frontendmentor.io/profile/VictorHAP1603)
