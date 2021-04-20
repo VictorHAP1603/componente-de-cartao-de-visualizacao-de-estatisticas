@@ -23,8 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://desafio01-front-end-mentor.com)
-
+- Live Site URL: [https://desafio01-front-end-mentor.com]
 ### Built with
 
 - Semantic HTML5 markup
