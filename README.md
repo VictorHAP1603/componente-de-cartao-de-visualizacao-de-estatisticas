@@ -25,7 +25,7 @@
 ### Feito com
 
 - HTML5
-- CSS
+- CSS/SCSS
 
 ## Autor
 
